@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Smoked salmon burger",
+    "time": 20,
+    "servings": 6,
+    "calories": 210,
+    "image": "https://assets.bonappetit.com/photos/62cc4eca787a907e535e8e7f/1:1/w_2580%2Cc_limit/0711-black-bean-burger-lede.jpg",
+    "difficulty": "easy",
+    "ingredients": ["4 whole wheat burger buns", "8 oz smoked salmon, sliced", "2 tbsp cream cheese", "1 red onion, sliced", "1 avocado, sliced", "Salt and pepper"],
+    "recipe": ["Lightly toast the whole wheat buns until golden", "Spread cream cheese on the bun bottoms", "Layer smoked salmon, followed by red onion, cucumber, and avocado", "Sprinkle with capers, dill, salt, and pepper", "Cap with the top bun", "Serve with a lemon wedge for squeezing", "Enjoy the burgers fresh, preferably with a side salad"]
+  },
+  {
+    "id": 2,
+    "name": "Tomatoes With Creamy Feta",
+    "time": 15,
+    "servings": 3,
+    "calories": 600,
+    "image": "https://assets.bonappetit.com/photos/62b4926736e0c90647da6b71/1:1/w_2580%2Cc_limit/0623-diana-yen-tomato-recipe-lede.jpg",
+    "difficulty": "easy",
+    "ingredients": [
+    "4 large ripe tomatoes, sliced",
+    "200 grams feta cheese, crumbled",
+    "1/4 cup heavy cream",
+    "2 tbsp olive oil",
+    "Fresh basil, chopped",
+    "Salt and pepper"
+  ],
+
+  "recipe": [
+    "In a bowl, combine crumbled feta cheese with heavy cream. Mix until smooth and creamy.",
+    "Arrange the sliced tomatoes on a platter.",
+    "Spoon the creamy feta mixture over the tomato slices, spreading it evenly.",
+    "Drizzle olive oil over the tomatoes and creamy feta.",
+    "Sprinkle chopped basil, salt, and pepper over the top for added flavor.",
+    "If desired, drizzle some balsamic glaze over the tomatoes for a sweet and tangy finish."
+  ]
+  },
+  {
+    "id": 3,
+    "name": "Spicy potato salad",
+    "time": 30,
+    "servings": 2,
+    "calories": 320,
+    "image": "https://assets.bonappetit.com/photos/62bf35ae872a6cfbb260f286/1:1/w_2580%2Cc_limit/0701-tj-recipe-potato-v2.jpg",
+    "difficulty": "medium",
+    "ingredients": [
+    "2 lbs cubed potatoes",
+    "1 diced red bell pepper",
+    "1/2 cup chopped onions",
+    "1/2 cup mayo",
+    "1 tbsp hot sauce",
+    "Salt & pepper"
+  ],
+
+  "recipe": [
+    "Boil cubed potatoes in salted water until tender (10-15 minutes), then drain and cool.",
+    "In a bowl, mix mayonnaise, sour cream, Dijon mustard, hot sauce, paprika, and cayenne.",
+    "Toss cooled potatoes, red bell pepper, jalapeño, red onion, and celery with dressing.",
+    "Add cilantro, salt, and pepper.",
+    "Refrigerate for at least 1 hour.",
+    "Serve chilled or at room temperature."
+  ]
+  },
+  {
+    "id": 4,
+    "name": "Chicken Biryani",
+    "time": 40,
+    "servings": 4,
+    "calories": 700,
+    "image": "https://assets.bonappetit.com/photos/5db1b689823b960008d8468d/1:1/w_2580%2Cc_limit/Chicken-Biryani-Lede-NEW.jpg",
+    "difficulty": "hard",
+    "ingredients": [
+    "2 cups basmati rice",
+    "1 lb chicken, pieces",
+    "2 onions, sliced",
+    "2 tomatoes, chopped",
+    "1/4 cup yogurt",
+    "2 tbsp biryani masala",
+    "Salt to taste",
+    "Oil for cooking",
+    "Cilantro and mint for garnish"
+  ],
+
+  "recipe": [
+    "Wash and soak the basmati rice for 30 minutes, then drain.",
+    "Sauté onions in oil until golden. Add chicken and biryani masala. Cook until browned. Mix in yogurt and salt.",
+    "Layer rice over the chicken. Add water to cover by 1 inch. Cover and simmer for 20 minutes.",
+    "Fluff with a fork, garnish with cilantro and mint, and serve hot."
+  ]
+  }
+]
